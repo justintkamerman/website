@@ -24,7 +24,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 2,
+    "uniqCompNum": 4,
     "versionPublish": "4.6.6"
   },
   "pages": {
@@ -88,6 +88,44 @@
           ],
           "_name": "header2",
           "_anchor": "header2-1"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "instagram",
+              "family": "socicon",
+              "link": "https://instagram.com/justintkamerman",
+              "size": 0,
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "text1": "<strong>Social Media</strong><br>Instagram: <a href=\"https://instagram.com/justintkamerman\">@justintkamerman</a><br>Twitter (inactive): <a href=\"https://twitter.com/justintkamerman\">@justintkamerman</a>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:info@justintkamerman.me\">info@justintkamerman.me</a><br>",
+          "text3": "<strong>Links</strong><br><a href=\"http://www.valleybaptistchurch.com\">Valley Baptist Church</a><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-3"
         }
       ]
     }
