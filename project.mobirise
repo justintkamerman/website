@@ -25,7 +25,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
     "uniqCompNum": 4,
-    "versionPublish": "4.6.6"
+    "versionPublish": "4.6.6",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -82,7 +83,7 @@
           },
           "title": "Justin Kamerman",
           "text": "Valley Baptist Youth Band Leader | Tennis Player | Technology Genius",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Instagram Profile</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://instagram.com/justintkamerman\" data-toolbar=\"-mbrBtnMove\">Instagram Profile</a>",
           "_tags": [
             "Theme"
           ],
